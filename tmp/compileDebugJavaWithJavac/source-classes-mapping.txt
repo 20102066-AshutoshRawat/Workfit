@@ -1,0 +1,9 @@
+com/example/work_fit/Category.java
+ com.example.work_fit.Category
+com/example/work_fit/activity_main.java
+ com.example.work_fit.activity_main
+ com.example.work_fit.activity_main$1
+com/example/work_fit/DBHelper.java
+ com.example.work_fit.DBHelper
+com/example/work_fit/BuildConfig.java
+ com.example.work_fit.BuildConfig
